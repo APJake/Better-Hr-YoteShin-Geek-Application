@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Yote Shin Geek</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="popular_movies">POPULAR MOVIES</string>
+    <string name="now_playing_movies">NOW PLAYING</string>
+    <string name="top_rated_movies">HOT MOVIES</string>
+    <string name="movie_backdrop">Movie backdrop</string>
+    <string name="description">Description</string>
+    <string name="actors">Casts</string>
+    <string name="crews">Crews</string>
+    <string name="companies">Companies</string>
+    <string name="countries">Countries</string>
+    <string name="try_again">TRY AGAIN</string>
+    <string name="background_image">Background Image</string>
+</resources>
